@@ -1,2 +1,6 @@
+postgres:
+    port: "5439"
 project:
     name: stock-price
+webserver:
+    port: "8081"
